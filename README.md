@@ -150,7 +150,11 @@ Meu nome é Jhenifer Moreira Pietrobelli, tenho 21 anos e sou estudante de Anál
 
 <hr>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jheniferpietrobelli/jheniferpietrobelli/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jheniferpietrobelli/jheniferpietrobelli/output/github-contribution-grid-snake.svg">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhenierpietrobelli/jhenierpietrobelli/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhenierpietrobelli/jhenierpietrobelli/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jhenierpietrobelli/jhenierpietrobelli/output/github-contribution-grid-snake.svg">
 </picture>
+  
+</div>
+<br><br><br><br>
