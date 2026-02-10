@@ -16,7 +16,7 @@ Meu nome é Jhenifer Moreira Pietrobelli, tenho 21 anos e sou estudante de Anál
         <img 
             alt="Instagram" 
             title="Perfil no instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Follow-purple.svg?logo=siga-me no instagram!"
+            src="https://custom-icon-badges.demolab.com/badge/Follow-purple.svg"
         />
     </a>
 </p>
