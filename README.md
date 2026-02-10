@@ -7,7 +7,7 @@ Meu nome é Jhenifer Moreira Pietrobelli, tenho 21 anos e sou estudante de Anál
 <p align="left">
     <a href="mailto:jhenifermorpie@gmail.com">
         <img 
-            alt="youtube subscribers" 
+            alt="Email" 
             title="Entre em contato comigo" 
             src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
         />
@@ -16,7 +16,7 @@ Meu nome é Jhenifer Moreira Pietrobelli, tenho 21 anos e sou estudante de Anál
         <img 
             alt="Instagram" 
             title="Perfil no instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Follow-purple.svg"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-purple.svg"
         />
     </a>
 </p>
