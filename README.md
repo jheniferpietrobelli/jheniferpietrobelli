@@ -143,7 +143,7 @@ Meu nome é Jhenifer Moreira Pietrobelli, tenho 21 anos e sou estudante de Anál
  src="https://stats.saviru.me/api?username=jheniferpietrobelli&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&locale=en&hide_border=true&order=1&theme=watchdog_gradient35" 
 />
  <img 
- height="200" 
+ height="250" 
  alt="languages graph" 
  src="https://stats.saviru.me/api/top-langs?username=jheniferpietrobelli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&theme=watchdog_gradient45"
 />
