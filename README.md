@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack Jr`**
 
-Meu nome é Jhenifer Moreira Pietrobelli, tenho 21 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUCPR e Biomedicina na UTP. Tenho grande interesse na interseção entre saúde, tecnologia e dados, buscando usar a programação como ferramenta para resolver problemas reais na área biomédica e científica. Tenho experiência com Python e Node.js e estou em constante aprendizado, desenvolvendo projetos que conectam ciência e tecnologia para melhorar processos, análises e tomadas de decisão na saúde. Aqui no meu GitHub você encontrará projetos em desenvolvimento, experimentações e ideias que refletem essa trajetória interdisciplinar.
+Meu nome é Jhenifer Moreira Pietrobelli, tenho 22 anos e sou estudante independente de Análise e Desenvolvimento de Sistemas e Biomedicina na UTP. Tenho grande interesse na interseção entre saúde, tecnologia e dados, buscando usar a programação como ferramenta para resolver problemas reais na área biomédica e científica. Tenho experiência com Python e Node.js e estou em constante aprendizado, desenvolvendo projetos que conectam ciência e tecnologia para melhorar processos, análises e tomadas de decisão na saúde. Aqui no meu GitHub você encontrará projetos em desenvolvimento, experimentações e ideias que refletem essa trajetória interdisciplinar.
 
 <p align="left">
     <a href="mailto:jhenifermorpie@gmail.com">
